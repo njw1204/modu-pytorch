@@ -1,2 +1,4 @@
 datasets/SVHN/test_32x32.mat filter=lfs diff=lfs merge=lfs -text
 datasets/SVHN/train_32x32.mat filter=lfs diff=lfs merge=lfs -text
+datasets/CIFAR10/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
+models/vgg-cifar-10.pth filter=lfs diff=lfs merge=lfs -text
