@@ -4,5 +4,5 @@
 - [x] Logistic Regression
 - [x] Softmax Regression
 - [x] DNN
-- [ ] CNN
-- [ ] RNN
+- [x] CNN
+- [x] RNN
